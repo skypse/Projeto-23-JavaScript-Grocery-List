@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: 'mumblers_demoregular';
-  src: url('/assets/mumblers_demo-webfont.woff') format('woff2');
+  src: url('assets/mumblers_demo-webfont.woff2') format('woff2');
 }
 
 body{
